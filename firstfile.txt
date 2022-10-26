@@ -11,3 +11,7 @@ add users
 curding
 third day changes
 next step
+
+add payment method
+send money
+receive money
